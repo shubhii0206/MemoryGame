@@ -1,16 +1,11 @@
 # memorygame
 
-A new Flutter project.
+Memory Game using flutter and dart.
 
-## Getting Started
+## What is memory game?
 
-This project is a starting point for a Flutter application.
+Memory game represents a grid view consisting of various tiles or blocks. 
+The user selects a particular tile and opens it, untils he finds its match, he keeps opening and closing other tiles.
+Whenever two pictures match, user gets 100 points.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
